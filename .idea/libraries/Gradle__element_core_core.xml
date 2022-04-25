@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: element.core.core">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../coinFactroyBot/newFactory/result/coinomi/element/core/build/libs/core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
